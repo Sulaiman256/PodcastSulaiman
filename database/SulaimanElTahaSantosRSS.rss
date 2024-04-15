@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Resumen de Podcasts</title>
+        <description>Resumen de los últimos episodios de podcast</description>
+        <link></link>
+        
+
+        <item>
+            <title>La Tecnología</title>
+            <description>Últimas tendencias en tecnología y gadgets.</description>
+            <link></link>
+        </item>
+
+        <item>
+            <title>El Cine y Entretenimiento</title>
+            <description>Lo mejor del cine y las series de TV.</description>
+            <link></link>
+          
+        </item>
+
+        <item>
+            <title>Los Deportes</title>
+            <description>Noticias, análisis y debates sobre los deportes más populares.</description>
+            <link></link>
+            
+        </item>
+
+        <item>
+            <title>La Salud y Bienestar</title>
+            <description>Consejos prácticos para una vida saludable.</description>
+            <link></link>
+            
+        </item>
+
+        <item>
+            <title>Islam y Pensamiento</title>
+            <description>Explorando los principios del Islam y cómo pensar para llegar al Creador.</description>
+            <link></link>
+        </item>
+    </channel>
+</rss>
